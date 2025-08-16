@@ -148,3 +148,7 @@
 [03:43:29] [Server thread/INFO]: Lastsamurai lost connection: Disconnected
 [03:43:29] [Server thread/INFO]: [voicechat] Disconnecting client Lastsamurai
 [03:43:29] [Server thread/INFO]: Lastsamurai left the game
+[03:47:26] [User Authenticator #4/INFO]: UUID of player Lastsamurai is 12f77f1f-1c8a-3c37-9e32-8784c4fa9c6a
+[03:47:28] [Server thread/INFO]: Lastsamurai joined the game
+[03:47:28] [Server thread/INFO]: Lastsamurai[/100.73.117.118:58295] logged in with entity id 13393 at ([world]-94.69999998807907, -31.0, 40.55089269882517)
+[03:47:30] [Server thread/INFO]: Lastsamurai was slain by Zombie
