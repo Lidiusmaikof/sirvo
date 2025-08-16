@@ -77,3 +77,30 @@
 [02:33:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
 [02:33:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
 [02:33:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
+[02:36:42] [User Authenticator #1/INFO]: UUID of player Lastsamurai is 12f77f1f-1c8a-3c37-9e32-8784c4fa9c6a
+[02:36:45] [Server thread/INFO]: Lastsamurai joined the game
+[02:36:45] [Server thread/INFO]: Lastsamurai[/100.73.117.118:58036] logged in with entity id 896 at ([world]-2.5, 69.0, -6.5)
+[02:36:53] [Server thread/INFO]: Set the time to 0
+[02:37:10] [Server thread/INFO]: Made VenaticWinner67 a server operator
+[02:37:22] [Server thread/INFO]: VenaticWinner67 issued server command: /lp editor
+[02:37:51] [Server thread/INFO]: VenaticWinner67 issued server command: /lp trusteditor 66c7-7e2b
+[02:38:19] [luckperms-worker-6/INFO]: [LP] LOG > (VenaticWinner67) [G] (default)
+[02:38:19] [luckperms-worker-6/INFO]: [LP] LOG > webeditor add voice true
+[02:38:19] [luckperms-worker-6/INFO]: [LP] LOG > (VenaticWinner67) [G] (default)
+[02:38:19] [luckperms-worker-6/INFO]: [LP] LOG > webeditor add voicechat true
+[02:38:19] [luckperms-worker-6/INFO]: [LP] LOG > (VenaticWinner67) [G] (default)
+[02:38:19] [luckperms-worker-6/INFO]: [LP] LOG > webeditor add voicechat.listen true
+[02:38:19] [luckperms-worker-6/INFO]: [LP] LOG > (VenaticWinner67) [G] (default)
+[02:38:19] [luckperms-worker-6/INFO]: [LP] LOG > webeditor add voicechat.speak true
+[02:38:35] [Async Chat Thread - #0/INFO]: [Not Secure] <VenaticWinner67> ehhh
+[02:38:44] [Async Chat Thread - #0/INFO]: [Not Secure] <VenaticWinner67> te pusiste el voice chat??
+[02:38:58] [Async Chat Thread - #0/INFO]: [Not Secure] <Lastsamurai> confi de graficos
+[02:39:12] [Async Chat Thread - #0/INFO]: [Not Secure] <VenaticWinner67> TODO EN FAST
+[02:39:52] [Server thread/INFO]: VenaticWinner67 has made the advancement [Stone Age]
+[02:40:09] [Server thread/INFO]: VenaticWinner67 has made the advancement [Getting an Upgrade]
+[02:40:26] [Async Chat Thread - #2/INFO]: [Not Secure] <Lastsamurai> que???????
+[02:40:43] [Async Chat Thread - #2/INFO]: [Not Secure] <VenaticWinner67> cajaro
+[02:40:49] [Async Chat Thread - #2/INFO]: [Not Secure] <VenaticWinner67> ahorita te mando foto
+[02:41:38] [Server thread/INFO]: Lastsamurai has made the advancement [Stone Age]
+[02:42:12] [Async Chat Thread - #4/INFO]: [Not Secure] <VenaticWinner67> ya ter paseeeee
+[02:42:37] [Server thread/INFO]: Lastsamurai has made the advancement [Getting an Upgrade]
