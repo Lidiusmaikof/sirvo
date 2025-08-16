@@ -159,3 +159,11 @@
 [04:08:26] [Server thread/INFO]: [voicechat] Disconnecting client Lastsamurai
 [04:08:26] [Server thread/INFO]: Lastsamurai left the game
 [04:34:37] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[04:41:03] [User Authenticator #5/INFO]: UUID of player VenaticWinner67 is 27624550-5762-38db-a0a7-5ccd77095ef1
+[04:41:06] [Server thread/INFO]: VenaticWinner67 joined the game
+[04:41:06] [Server thread/INFO]: VenaticWinner67[/100.87.58.7:56998] logged in with entity id 17351 at ([world]-27.51349513668752, 63.0, -616.9846681191773)
+[04:41:09] [Server thread/INFO]: [voicechat] Received secret request of VenaticWinner67 (18)
+[04:41:09] [Server thread/INFO]: [voicechat] Sent secret to VenaticWinner67
+[04:41:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
+[04:41:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
+[04:41:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
