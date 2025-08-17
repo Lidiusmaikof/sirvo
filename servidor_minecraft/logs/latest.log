@@ -183,3 +183,10 @@
 [20:36:20] [Server thread/INFO]: [voicechat] Disconnecting client VenaticWinner67
 [20:36:20] [Server thread/INFO]: VenaticWinner67 left the game
 [20:51:46] [Server thread/INFO]: [Not Secure] [Server] puedes estar quitando las casas de los aldeanos? para organizar todo
+[21:23:34] [Server thread/INFO]: Lastsamurai was kicked due to keepalive timeout!
+[21:23:34] [Server thread/INFO]: Lastsamurai lost connection: Timed out
+[21:23:34] [Server thread/INFO]: [voicechat] Disconnecting client Lastsamurai
+[21:23:34] [Server thread/INFO]: Lastsamurai left the game
+[21:24:14] [User Authenticator #7/INFO]: UUID of player Lastsamurai is 12f77f1f-1c8a-3c37-9e32-8784c4fa9c6a
+[21:24:19] [Server thread/INFO]: Lastsamurai joined the game
+[21:24:19] [Server thread/INFO]: Lastsamurai[/100.73.117.118:61575] logged in with entity id 58346 at ([world]-765.8689419259996, 87.125, -1012.0500000119209)
