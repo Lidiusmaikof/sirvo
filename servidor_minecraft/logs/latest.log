@@ -111,3 +111,10 @@
 [01:43:07] [Server thread/INFO]: Linoxito left the game
 [01:43:11] [Server thread/INFO]: Lastsamurai joined the game
 [01:43:11] [Server thread/INFO]: Lastsamurai[/100.73.117.118:59162] logged in with entity id 3701 at ([world]22.599460901951314, 70.0, -26.180887182543458)
+[01:54:12] [Server thread/INFO]: Lastsamurai was kicked due to keepalive timeout!
+[01:54:12] [Server thread/INFO]: Lastsamurai lost connection: Timed out
+[01:54:12] [Server thread/INFO]: [voicechat] Disconnecting client Lastsamurai
+[01:54:12] [Server thread/INFO]: Lastsamurai left the game
+[01:54:37] [User Authenticator #3/INFO]: UUID of player Lastsamurai is 12f77f1f-1c8a-3c37-9e32-8784c4fa9c6a
+[01:54:40] [Server thread/INFO]: Lastsamurai joined the game
+[01:54:40] [Server thread/INFO]: Lastsamurai[/100.73.117.118:59573] logged in with entity id 5291 at ([world]303.7021598656042, 45.0, 14.300000011920929)
