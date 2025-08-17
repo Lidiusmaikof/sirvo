@@ -86,3 +86,18 @@
 [17:31:05] [Server thread/INFO]: Linoxito lost connection: Disconnected
 [17:31:05] [Server thread/INFO]: [voicechat] Disconnecting client Linoxito
 [17:31:05] [Server thread/INFO]: Linoxito left the game
+[17:44:36] [Server thread/INFO]: Lastsamurai has made the advancement [Enchanter]
+[17:47:14] [Server thread/INFO]: Lastsamurai was slain by Zombie
+[17:57:58] [User Authenticator #2/INFO]: UUID of player Linoxito is 47c543d0-9f37-3114-a38a-09cb168e4a96
+[17:58:00] [Server thread/INFO]: Linoxito joined the game
+[17:58:00] [Server thread/INFO]: Linoxito[/100.121.139.117:51998] logged in with entity id 14567 at ([world]-761.0231320943908, 88.0, -988.3467633186779)
+[17:58:02] [Server thread/INFO]: [voicechat] Received secret request of Linoxito (18)
+[17:58:02] [Server thread/INFO]: [voicechat] Sent secret to Linoxito
+[17:58:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 47c543d0-9f37-3114-a38a-09cb168e4a96
+[17:58:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 47c543d0-9f37-3114-a38a-09cb168e4a96
+[17:58:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Linoxito (47c543d0-9f37-3114-a38a-09cb168e4a96) successfully connected to voice chat
+[17:58:17] [Async Chat Thread - #2/INFO]: [Not Secure] <Linoxito> q fue jajja
+[17:59:23] [Async Chat Thread - #4/INFO]: [Not Secure] <Linoxito> se va perer tus cosas
+[17:59:36] [Server thread/INFO]: Linoxito has made the advancement [Ice Bucket Challenge]
+[17:59:36] [Server thread/INFO]: Linoxito has made the advancement [Diamonds!]
+[18:02:01] [Server thread/INFO]: Linoxito has made the advancement [Isn't It Iron Pick]
