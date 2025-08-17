@@ -179,3 +179,13 @@
 [03:04:05] [Server thread/INFO]: Linoxito lost connection: Disconnected
 [03:04:05] [Server thread/INFO]: [voicechat] Disconnecting client Linoxito
 [03:04:05] [Server thread/INFO]: Linoxito left the game
+[03:07:25] [User Authenticator #7/INFO]: UUID of player Linoxito is 47c543d0-9f37-3114-a38a-09cb168e4a96
+[03:07:27] [Server thread/INFO]: Linoxito joined the game
+[03:07:27] [Server thread/INFO]: Linoxito[/100.121.139.117:51443] logged in with entity id 28762 at ([world]-736.0885309469234, 87.0, -1070.0908144041591)
+[03:07:28] [Server thread/INFO]: [voicechat] Received secret request of Linoxito (18)
+[03:07:28] [Server thread/INFO]: [voicechat] Sent secret to Linoxito
+[03:07:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 47c543d0-9f37-3114-a38a-09cb168e4a96
+[03:07:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 47c543d0-9f37-3114-a38a-09cb168e4a96
+[03:07:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Linoxito (47c543d0-9f37-3114-a38a-09cb168e4a96) successfully connected to voice chat
+[03:14:22] [Async Chat Thread - #23/INFO]: [Not Secure] <VenaticWinner67> zzzzzzzzzzzzzzzzz
+[03:15:37] [Server thread/INFO]: Linoxito has made the advancement [Not Today, Thank You]
