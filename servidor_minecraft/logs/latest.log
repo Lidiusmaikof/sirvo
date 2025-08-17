@@ -150,3 +150,11 @@
 [19:19:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 47c543d0-9f37-3114-a38a-09cb168e4a96
 [19:19:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Linoxito (47c543d0-9f37-3114-a38a-09cb168e4a96) successfully connected to voice chat
 [19:19:23] [Async Chat Thread - #23/INFO]: [Not Secure] <VenaticWinner67> vamos a la mina
+[19:24:35] [Server thread/INFO]: Lastsamurai was kicked due to keepalive timeout!
+[19:24:35] [Server thread/INFO]: Lastsamurai lost connection: Timed out
+[19:24:35] [Server thread/INFO]: [voicechat] Disconnecting client Lastsamurai
+[19:24:35] [Server thread/INFO]: Lastsamurai left the game
+[19:25:03] [User Authenticator #6/INFO]: UUID of player Lastsamurai is 12f77f1f-1c8a-3c37-9e32-8784c4fa9c6a
+[19:25:20] [Server thread/INFO]: Lastsamurai joined the game
+[19:25:20] [Server thread/INFO]: Lastsamurai[/100.73.117.118:60572] logged in with entity id 29453 at ([world]-706.2769988846275, 82.0, -1069.7140803971613)
+[19:32:51] [Server thread/INFO]: VenaticWinner67 has made the advancement [Diamonds!]
