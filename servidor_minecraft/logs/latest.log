@@ -118,3 +118,18 @@
 [01:54:37] [User Authenticator #3/INFO]: UUID of player Lastsamurai is 12f77f1f-1c8a-3c37-9e32-8784c4fa9c6a
 [01:54:40] [Server thread/INFO]: Lastsamurai joined the game
 [01:54:40] [Server thread/INFO]: Lastsamurai[/100.73.117.118:59573] logged in with entity id 5291 at ([world]303.7021598656042, 45.0, 14.300000011920929)
+[01:56:37] [User Authenticator #4/INFO]: UUID of player VenaticWinner67 is 27624550-5762-38db-a0a7-5ccd77095ef1
+[01:56:42] [Server thread/INFO]: VenaticWinner67 joined the game
+[01:56:42] [Server thread/INFO]: VenaticWinner67[/100.87.58.7:55887] logged in with entity id 5800 at ([world]-767.7387425424176, 95.0, -991.0915818019466)
+[01:56:44] [Server thread/INFO]: [voicechat] Received secret request of VenaticWinner67 (18)
+[01:56:44] [Server thread/INFO]: [voicechat] Sent secret to VenaticWinner67
+[01:56:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
+[01:56:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
+[01:56:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
+[01:58:46] [Async Chat Thread - #3/INFO]: [Not Secure] <VenaticWinner67> zzzzzzzzzzzzzzzzzzzzzzz
+[01:59:11] [Server thread/INFO]: Lastsamurai lost connection: Disconnected
+[01:59:11] [Server thread/INFO]: [voicechat] Disconnecting client Lastsamurai
+[01:59:11] [Server thread/INFO]: Lastsamurai left the game
+[01:59:25] [User Authenticator #5/INFO]: UUID of player Lastsamurai is 12f77f1f-1c8a-3c37-9e32-8784c4fa9c6a
+[01:59:26] [Server thread/INFO]: Lastsamurai joined the game
+[01:59:26] [Server thread/INFO]: Lastsamurai[/100.73.117.118:59641] logged in with entity id 6557 at ([world]330.50564910549184, 23.0, -3.699999988079071)
