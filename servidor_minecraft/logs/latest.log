@@ -114,3 +114,11 @@
 [18:07:41] [Server thread/INFO]: [Not Secure] [Server] gei
 [18:23:05] [Async Chat Thread - #11/INFO]: [Not Secure] <Lastsamurai> se estan reproduciendo como conejos jajajajaaj
 [18:23:11] [Async Chat Thread - #11/INFO]: [Not Secure] <Linoxito> jajaj
+[18:31:56] [User Authenticator #4/INFO]: UUID of player VenaticWinner67 is 27624550-5762-38db-a0a7-5ccd77095ef1
+[18:32:00] [Server thread/INFO]: VenaticWinner67 joined the game
+[18:32:00] [Server thread/INFO]: VenaticWinner67[/100.87.58.7:52202] logged in with entity id 20850 at ([world]-765.8963638828338, 95.0, -990.9975564767543)
+[18:32:02] [Server thread/INFO]: [voicechat] Received secret request of VenaticWinner67 (18)
+[18:32:02] [Server thread/INFO]: [voicechat] Sent secret to VenaticWinner67
+[18:32:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
+[18:32:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
+[18:32:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
