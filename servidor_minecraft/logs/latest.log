@@ -95,3 +95,6 @@
 [01:33:29] [Server thread/INFO]: Lastsamurai lost connection: Timed out
 [01:33:29] [Server thread/INFO]: [voicechat] Disconnecting client Lastsamurai
 [01:33:29] [Server thread/INFO]: Lastsamurai left the game
+[01:42:07] [User Authenticator #3/INFO]: UUID of player Lastsamurai is 12f77f1f-1c8a-3c37-9e32-8784c4fa9c6a
+[01:42:08] [Server thread/INFO]: Lastsamurai joined the game
+[01:42:08] [Server thread/INFO]: Lastsamurai[/100.73.117.118:62455] logged in with entity id 6918 at ([world]-771.3690937781196, 90.0, -1001.6158306907822)
