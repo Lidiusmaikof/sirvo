@@ -98,3 +98,9 @@
 [01:42:07] [User Authenticator #3/INFO]: UUID of player Lastsamurai is 12f77f1f-1c8a-3c37-9e32-8784c4fa9c6a
 [01:42:08] [Server thread/INFO]: Lastsamurai joined the game
 [01:42:08] [Server thread/INFO]: Lastsamurai[/100.73.117.118:62455] logged in with entity id 6918 at ([world]-771.3690937781196, 90.0, -1001.6158306907822)
+[01:58:47] [Server thread/INFO]: Linoxito has made the advancement [A Seedy Place]
+[02:04:38] [Server thread/INFO]: Linoxito lost connection: Disconnected
+[02:04:38] [Server thread/INFO]: [voicechat] Disconnecting client Linoxito
+[02:04:38] [Server thread/INFO]: Linoxito left the game
+[02:05:18] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[02:05:39] [Server thread/INFO]: There are 1 of a max of 20 players online: Lastsamurai
