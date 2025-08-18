@@ -66,3 +66,4 @@
 [13:28:35] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
 [13:28:35] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [13:28:35] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[13:45:44] [Server thread/INFO]: There are 0 of a max of 20 players online: 
