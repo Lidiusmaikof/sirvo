@@ -91,3 +91,7 @@
 [01:24:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 47c543d0-9f37-3114-a38a-09cb168e4a96
 [01:24:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 47c543d0-9f37-3114-a38a-09cb168e4a96
 [01:24:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Linoxito (47c543d0-9f37-3114-a38a-09cb168e4a96) successfully connected to voice chat
+[01:30:38] [Async Chat Thread - #1/INFO]: [Not Secure] <Lastsamurai> dile a ese negro que entre para ir a explorar
+[01:33:29] [Server thread/INFO]: Lastsamurai lost connection: Timed out
+[01:33:29] [Server thread/INFO]: [voicechat] Disconnecting client Lastsamurai
+[01:33:29] [Server thread/INFO]: Lastsamurai left the game
