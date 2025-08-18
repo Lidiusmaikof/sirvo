@@ -67,3 +67,7 @@
 [13:28:35] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [13:28:35] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
 [13:45:44] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[13:51:02] [User Authenticator #0/INFO]: UUID of player Lastsamurai is 12f77f1f-1c8a-3c37-9e32-8784c4fa9c6a
+[13:51:02] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms]
+[13:51:06] [Server thread/INFO]: Lastsamurai joined the game
+[13:51:06] [Server thread/INFO]: Lastsamurai[/100.73.117.118:54476] logged in with entity id 28 at ([world]-765.398955838224, 87.0, -999.1692741349394)
