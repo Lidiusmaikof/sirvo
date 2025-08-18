@@ -77,3 +77,6 @@
 [01:00:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 47c543d0-9f37-3114-a38a-09cb168e4a96
 [01:00:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 47c543d0-9f37-3114-a38a-09cb168e4a96
 [01:00:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Linoxito (47c543d0-9f37-3114-a38a-09cb168e4a96) successfully connected to voice chat
+[01:08:01] [User Authenticator #1/INFO]: UUID of player Lastsamurai is 12f77f1f-1c8a-3c37-9e32-8784c4fa9c6a
+[01:08:03] [Server thread/INFO]: Lastsamurai joined the game
+[01:08:03] [Server thread/INFO]: Lastsamurai[/100.73.117.118:62640] logged in with entity id 1646 at ([world]-750.2751073003583, 88.0, -991.0017264550387)
