@@ -1,163 +1,77 @@
-[13:28:21] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[13:28:21] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[13:28:21] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[13:28:21] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[13:28:21] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+[16:19:29] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[16:19:29] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[16:19:29] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:19:30] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[16:19:30] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
  - LuckPerms (5.5.10), voicechat (2.5.35)
-[13:28:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:28:29] [ServerMain/INFO]: Loaded 1407 recipes
-[13:28:29] [ServerMain/INFO]: Loaded 1520 advancements
-[13:28:29] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[13:28:29] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 438.6ms
-[13:28:29] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[13:28:29] [Server thread/INFO]: Loading properties
-[13:28:30] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[13:28:30] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[13:28:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[13:28:30] [Server thread/INFO]: Using 4 threads for Netty based IO
-[13:28:30] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[13:28:30] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[13:28:31] [Server thread/INFO]: Default game type: SURVIVAL
-[13:28:31] [Server thread/INFO]: Generating keypair
-[13:28:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:28:31] [Server thread/INFO]: Using epoll channel type
-[13:28:31] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[13:28:31] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[13:28:31] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.35
-[13:28:31] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.10
-[13:28:31] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[13:28:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[13:28:32] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.10
-[13:28:32] [Server thread/INFO]:         __    
-[13:28:32] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.10
-[13:28:32] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[13:28:32] [Server thread/INFO]: 
-[13:28:32] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[13:28:32] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[13:28:32] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[13:28:33] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1041ms)
-[13:28:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:28:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:28:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:28:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:28:33] [Server thread/INFO]: Preparing level "world"
-[13:28:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:28:34] [Server thread/INFO]: Preparing spawn area: 0%
-[13:28:34] [Server thread/INFO]: Preparing spawn area: 2%
-[13:28:34] [Server thread/INFO]: Preparing spawn area: 26%
-[13:28:34] [Server thread/INFO]: Time elapsed: 1023 ms
-[13:28:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[13:28:34] [Server thread/INFO]: Preparing spawn area: 0%
-[13:28:35] [Server thread/INFO]: Time elapsed: 277 ms
-[13:28:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[13:28:35] [Server thread/INFO]: Preparing spawn area: 0%
-[13:28:35] [Server thread/INFO]: Time elapsed: 106 ms
-[13:28:35] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.35
-[13:28:35] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21.8-R0.1
-[13:28:35] [Server thread/INFO]: [voicechat] Compatibility version 18
-[13:28:35] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[13:28:35] [Server thread/INFO]: [spark] Starting background profiler...
-[13:28:35] [Server thread/INFO]: Done preparing level "world" (2.820s)
-[13:28:35] [Server thread/INFO]: Running delayed init tasks
-[13:28:35] [Server thread/INFO]: Done (15.728s)! For help, type "help"
-[13:28:35] [Server thread/INFO]: [voicechat] Loading plugins
-[13:28:35] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[13:28:35] [Server thread/INFO]: [voicechat] Initializing plugins
-[13:28:35] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[13:28:35] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[13:28:35] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[13:45:44] [Server thread/INFO]: There are 0 of a max of 20 players online: 
-[13:51:02] [User Authenticator #0/INFO]: UUID of player Lastsamurai is 12f77f1f-1c8a-3c37-9e32-8784c4fa9c6a
-[13:51:02] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms]
-[13:51:06] [Server thread/INFO]: Lastsamurai joined the game
-[13:51:06] [Server thread/INFO]: Lastsamurai[/100.73.117.118:54476] logged in with entity id 28 at ([world]-765.398955838224, 87.0, -999.1692741349394)
-[14:56:05] [Server thread/INFO]: Lastsamurai has made the advancement [Voluntary Exile]
-[15:06:23] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
-[15:49:38] [Server thread/INFO]: There are 1 of a max of 20 players online: Lastsamurai
-[15:49:52] [Server thread/INFO]: [Not Secure] [Server] hija?
-[15:52:10] [Server thread/INFO]: [Not Secure] [Server] hey vos
-[15:54:04] [Async Chat Thread - #3/INFO]: [Not Secure] <Lastsamurai> ques
-[16:10:45] [User Authenticator #1/INFO]: UUID of player VenaticWinner67 is 27624550-5762-38db-a0a7-5ccd77095ef1
-[16:10:49] [Server thread/INFO]: VenaticWinner67 joined the game
-[16:10:49] [Server thread/INFO]: VenaticWinner67[/100.87.58.7:61571] logged in with entity id 17189 at ([world]-782.8030928051195, 80.0, -1024.504181469136)
-[16:10:50] [Server thread/INFO]: [voicechat] Received secret request of VenaticWinner67 (18)
-[16:10:50] [Server thread/INFO]: [voicechat] Sent secret to VenaticWinner67
-[16:10:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
-[16:10:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
-[16:10:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
-[16:15:39] [Async Chat Thread - #4/INFO]: [Not Secure] <VenaticWinner67> zzzzzzzzzzzzzzzzzzzzz
-[16:15:56] [Async Chat Thread - #4/INFO]: [Not Secure] <VenaticWinner67> zzzzzzzz
-[16:15:56] [Async Chat Thread - #4/INFO]: [Not Secure] <VenaticWinner67> z
-[16:15:57] [Async Chat Thread - #4/INFO]: [Not Secure] <VenaticWinner67> zz
-[16:15:57] [Async Chat Thread - #4/INFO]: [Not Secure] <VenaticWinner67> zz
-[16:15:57] [Async Chat Thread - #4/INFO]: [Not Secure] <VenaticWinner67> z
-[16:15:57] [Async Chat Thread - #4/INFO]: [Not Secure] <VenaticWinner67> zz
-[16:15:57] [Async Chat Thread - #4/INFO]: [Not Secure] <VenaticWinner67> z
-[16:15:58] [Async Chat Thread - #4/INFO]: [Not Secure] <VenaticWinner67> z
-[16:15:58] [Async Chat Thread - #4/INFO]: [Not Secure] <VenaticWinner67> z
-[16:15:58] [Async Chat Thread - #4/INFO]: [Not Secure] <VenaticWinner67> z
-[16:18:09] [Async Chat Thread - #6/INFO]: [Not Secure] <VenaticWinner67> haremos el trading hall
-[16:18:36] [Server thread/INFO]: Made VenaticWinner67 a server operator
-[16:18:54] [Server thread/INFO]: VenaticWinner67 issued server command: /difficulty hard
-[16:18:54] [Server thread/INFO]: [VenaticWinner67: The difficulty has been set to Hard]
-[16:19:32] [Async Chat Thread - #8/INFO]: [Not Secure] <Lastsamurai> yaya
-[16:19:42] [Server thread/INFO]: Made VenaticWinner67 no longer a server operator
-[16:20:04] [Async Chat Thread - #8/INFO]: [Not Secure] <VenaticWinner67> voy a reunir materialaguante
-[16:27:01] [Async Chat Thread - #10/INFO]: [Not Secure] <Lastsamurai> que necesitas oi
-[16:27:09] [Async Chat Thread - #10/INFO]: [Not Secure] <VenaticWinner67> ya tengo
-[16:27:15] [Async Chat Thread - #10/INFO]: [Not Secure] <VenaticWinner67> dormimeros y hacemos
-[16:27:49] [Async Chat Thread - #10/INFO]: [Not Secure] <VenaticWinner67> me voy a poner el tutorial oi esperame jajaja
-[16:28:10] [Async Chat Thread - #10/INFO]: [Not Secure] <Lastsamurai> jajajaj y si usamos discord o llamada??
-[16:30:10] [Async Chat Thread - #12/INFO]: [Not Secure] <VenaticWinner67> utha me olvide de los pistones jaja
-[16:30:46] [Async Chat Thread - #12/INFO]: [Not Secure] <VenaticWinner67> de cuanto hacemos el trading hall??
-[16:30:52] [Async Chat Thread - #12/INFO]: [Not Secure] <VenaticWinner67> de cuantos aldeanos??
-[16:31:00] [Async Chat Thread - #12/INFO]: [Not Secure] <VenaticWinner67> 20 esta bien??
-[16:31:07] [Async Chat Thread - #12/INFO]: [Not Secure] <Lastsamurai> 30
-[16:31:14] [Async Chat Thread - #12/INFO]: [Not Secure] <VenaticWinner67> ._:
-[16:31:21] [Async Chat Thread - #12/INFO]: [Not Secure] <VenaticWinner67> el diavlo
-[16:31:25] [Async Chat Thread - #12/INFO]: [Not Secure] <VenaticWinner67> bombasssss
-[16:31:31] [Async Chat Thread - #12/INFO]: [Not Secure] <Lastsamurai> faltan algunos encantamientos igual
-[16:31:43] [Async Chat Thread - #12/INFO]: [Not Secure] <VenaticWinner67> yayay dej hago los pistones
-[16:33:06] [Async Chat Thread - #14/INFO]: [Not Secure] <VenaticWinner67> listo
-[16:34:06] [Async Chat Thread - #16/INFO]: [Not Secure] <Lastsamurai> tenemos granja de spaw de zombies
-[16:34:15] [Async Chat Thread - #16/INFO]: [Not Secure] <VenaticWinner67> utha donde pues??}
-[16:34:30] [Async Chat Thread - #16/INFO]: [Not Secure] <Lastsamurai> aqui
-[16:35:00] [Async Chat Thread - #16/INFO]: [Not Secure] <VenaticWinner67> el diavlo
-[16:35:03] [Async Chat Thread - #16/INFO]: [Not Secure] <VenaticWinner67> bien hija
-[16:35:14] [Async Chat Thread - #16/INFO]: [Not Secure] <Lastsamurai> jaja literal serca de la base
-[16:35:22] [Async Chat Thread - #16/INFO]: [Not Secure] <VenaticWinner67> que riko
-[16:36:31] [Async Chat Thread - #18/INFO]: [Not Secure] <VenaticWinner67> ya listo
-[16:38:28] [Async Chat Thread - #20/INFO]: [Not Secure] <Lastsamurai> ya vuelvo
-[16:38:31] [Server thread/INFO]: Lastsamurai lost connection: Disconnected
-[16:38:31] [Server thread/INFO]: [voicechat] Disconnecting client Lastsamurai
-[16:38:31] [Server thread/INFO]: Lastsamurai left the game
-[16:38:32] [Async Chat Thread - #20/INFO]: [Not Secure] <VenaticWinner67> yia
-[16:55:33] [User Authenticator #2/INFO]: UUID of player Lastsamurai is 12f77f1f-1c8a-3c37-9e32-8784c4fa9c6a
-[16:55:35] [Server thread/INFO]: Lastsamurai joined the game
-[16:55:35] [Server thread/INFO]: Lastsamurai[/100.73.117.118:54959] logged in with entity id 23661 at ([world]-844.8611329344038, 79.0, -967.5423972327902)
-[16:56:18] [Async Chat Thread - #22/INFO]: [Not Secure] <VenaticWinner67> necesitamos pociones
-[16:56:25] [Async Chat Thread - #22/INFO]: [Not Secure] <VenaticWinner67> luego vamos a buscar la fortalezas
-[16:56:35] [Async Chat Thread - #22/INFO]: [Not Secure] <Lastsamurai> zyzyzy
-[16:56:50] [Async Chat Thread - #22/INFO]: [Not Secure] <VenaticWinner67> hija trae las mesas de trabajo porfas
-[16:56:56] [Async Chat Thread - #22/INFO]: [Not Secure] <VenaticWinner67> todas las que usaremos
-[16:59:12] [Async Chat Thread - #24/INFO]: [Not Secure] <VenaticWinner67> traeremos 15 aldeanos
-[17:00:04] [Async Chat Thread - #24/INFO]: [Not Secure] <VenaticWinner67> cuerda
-[17:00:46] [Async Chat Thread - #24/INFO]: [Not Secure] <VenaticWinner67> mrd no hay cuerda
-[17:01:32] [Async Chat Thread - #24/INFO]: [Not Secure] <VenaticWinner67> ufff
-[17:01:38] [Async Chat Thread - #24/INFO]: [Not Secure] <VenaticWinner67> roncaremos
-[17:07:21] [Async Chat Thread - #26/INFO]: [Not Secure] <VenaticWinner67> todos que sean librebros??
-[17:08:03] [Async Chat Thread - #26/INFO]: [Not Secure] <VenaticWinner67> oh podemos hacerlo por secciones
-[17:11:46] [Async Chat Thread - #28/INFO]: [Not Secure] <Lastsamurai> todos libreros
-[17:11:58] [Async Chat Thread - #28/INFO]: [Not Secure] <Lastsamurai> no necesitamos mas tambien
-[17:12:02] [Async Chat Thread - #28/INFO]: [Not Secure] <VenaticWinner67> sisis necesito 15 mesas de libreros mas
-[17:12:11] [Async Chat Thread - #28/INFO]: [Not Secure] <Lastsamurai> posi
-[17:12:21] [Async Chat Thread - #28/INFO]: [Not Secure] <VenaticWinner67> bueno 29
-[17:13:06] [Async Chat Thread - #28/INFO]: [Not Secure] <Lastsamurai> alv
-[17:13:13] [Async Chat Thread - #28/INFO]: [Not Secure] <VenaticWinner67> ??
-[17:15:50] [Async Chat Thread - #30/INFO]: [Not Secure] <Lastsamurai> zzzzzzz
-[17:16:04] [Async Chat Thread - #30/INFO]: [Not Secure] <VenaticWinner67> espera necesito un zombie
-[17:19:08] [Async Chat Thread - #32/INFO]: [Not Secure] <VenaticWinner67> riko
-[17:20:03] [Async Chat Thread - #33/INFO]: [Not Secure] <VenaticWinner67> hija esperame voy a almorzar
-[17:20:04] [Server thread/INFO]: VenaticWinner67 lost connection: Disconnected
-[17:20:04] [Server thread/INFO]: [voicechat] Disconnecting client VenaticWinner67
-[17:20:04] [Server thread/INFO]: VenaticWinner67 left the game
+[16:19:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:19:36] [ServerMain/INFO]: Loaded 1407 recipes
+[16:19:36] [ServerMain/INFO]: Loaded 1520 advancements
+[16:19:36] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[16:19:36] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 418.6ms
+[16:19:36] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[16:19:36] [Server thread/INFO]: Loading properties
+[16:19:36] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[16:19:36] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:19:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:19:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:19:38] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[16:19:38] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[16:19:39] [Server thread/INFO]: Default game type: SURVIVAL
+[16:19:39] [Server thread/INFO]: Generating keypair
+[16:19:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:19:39] [Server thread/INFO]: Using epoll channel type
+[16:19:39] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:19:39] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[16:19:39] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.35
+[16:19:39] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.10
+[16:19:39] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[16:19:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:19:39] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.10
+[16:19:40] [Server thread/INFO]:         __    
+[16:19:40] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.10
+[16:19:40] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[16:19:40] [Server thread/INFO]: 
+[16:19:40] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[16:19:40] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[16:19:40] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[16:19:40] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 925ms)
+[16:19:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:19:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:19:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:19:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:19:40] [Server thread/INFO]: Preparing level "world"
+[16:19:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:19:41] [Server thread/INFO]: Preparing spawn area: 0%
+[16:19:42] [Server thread/INFO]: Preparing spawn area: 2%
+[16:19:42] [Server thread/INFO]: Preparing spawn area: 26%
+[16:19:42] [Server thread/INFO]: Time elapsed: 1317 ms
+[16:19:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:19:42] [Server thread/INFO]: Preparing spawn area: 0%
+[16:19:43] [Server thread/INFO]: Time elapsed: 330 ms
+[16:19:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:19:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:19:43] [Server thread/INFO]: Time elapsed: 182 ms
+[16:19:43] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.35
+[16:19:43] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21.8-R0.1
+[16:19:43] [Server thread/INFO]: [voicechat] Compatibility version 18
+[16:19:43] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[16:19:43] [Server thread/INFO]: [spark] Starting background profiler...
+[16:19:44] [Server thread/INFO]: Done preparing level "world" (3.284s)
+[16:19:44] [Server thread/INFO]: Running delayed init tasks
+[16:19:44] [Server thread/INFO]: Done (15.543s)! For help, type "help"
+[16:19:44] [Server thread/INFO]: [voicechat] Loading plugins
+[16:19:44] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[16:19:44] [Server thread/INFO]: [voicechat] Initializing plugins
+[16:19:44] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[16:19:44] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[16:19:44] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[16:20:09] [User Authenticator #0/INFO]: UUID of player VenaticWinner67 is 27624550-5762-38db-a0a7-5ccd77095ef1
+[16:20:09] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms]
+[16:20:14] [Server thread/INFO]: VenaticWinner67 joined the game
+[16:20:14] [Server thread/INFO]: VenaticWinner67[/100.87.58.7:60896] logged in with entity id 28 at ([world]-765.769568228807, 87.0, -1010.0552400098767)
+[16:20:16] [Server thread/INFO]: [voicechat] Received secret request of VenaticWinner67 (18)
+[16:20:16] [Server thread/INFO]: [voicechat] Sent secret to VenaticWinner67
+[16:20:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
+[16:20:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
+[16:20:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
